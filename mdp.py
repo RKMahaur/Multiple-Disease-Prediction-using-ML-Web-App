@@ -7,7 +7,7 @@ Created on Thu Sep  5 11:39:29 2024
 import numpy as np
 import pickle
 import streamlit as st
-from streamlit_option_menu import option_menu
+import streamlit_option_menu 
 
 # loading the model and scaler
 
